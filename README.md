@@ -26,7 +26,7 @@
 <div>   
     <a href="mailto:rafayzoyan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Abdur Rafay Kamran - Email"></a>
     <a href="https://www.linkedin.com/in/abdur-rafay-kamran-a03a18351" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Abdur Rafay Kamran - Linkedin"></a><br>
-    <a href="https://www.facebook.com/share/18eAKRMBZv/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Abdur Rafay kamran - Facebook"></a>
+    <a href="https://www.facebook.com/share/18eAKRMBZv/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Abdur Rafay Kamran - Facebook"></a>
 	
 
 </div>
@@ -56,9 +56,9 @@
 
 <a> 
     <a href="https://github.com/AbdurRafay11"><img alt="Abdur Rafay Kamran Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AbdurRafay11&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/AbdurRafay11"><img alt="Abdur Rafay Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdurRafay11&theme=vision_friendly_dark&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<!--* <a href="https://github.com/AbdurRafay11"><img alt="Abdur Rafay Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdurRafay11&theme=vision_friendly_dark&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</a> -->
 
 
 ![Abdur Rafa Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdurRafay11&custom_title=Abdur%20Rafay%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
